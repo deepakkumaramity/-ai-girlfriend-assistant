@@ -1,7 +1,7 @@
 
 # AI Girlfriend Assistant (Offline)
 
-Local AI assistant running completely offline using **Ollama + Python**.
+Local AI assistant running completely offline using **Ollama + Python**
 
 No API key required. Runs on your own computer.
 
